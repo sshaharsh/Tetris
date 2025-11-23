@@ -36,4 +36,3 @@ _No external dependencies required._
 
 ![Game Screenshot](screenshots/image.png)
 
-...existing code...
