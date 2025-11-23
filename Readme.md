@@ -34,6 +34,6 @@ _No external dependencies required._
 
 ## Screenshot
 
-![Game Screenshot](screenshot/image.png)
+![Game Screenshot](screenshots/image.png)
 
 ...existing code...
