@@ -31,3 +31,9 @@ _No external dependencies required._
 
    ```sh
    python tkinter_tetris.py
+
+## Screenshot
+
+![Game Screenshot](screenshot/image.png)
+
+...existing code...
