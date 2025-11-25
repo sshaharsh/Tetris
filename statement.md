@@ -44,5 +44,4 @@ This project is a simple implementation of the classic Tetris game using Python 
 - Python 3.x
 - Standard library only (uses Tkinter; no external dependencies).
 
-## Running The Game
 
